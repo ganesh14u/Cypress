@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
     "cypress": "^14.3.3"
   }
 }
